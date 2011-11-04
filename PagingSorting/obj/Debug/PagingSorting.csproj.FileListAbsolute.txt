@@ -1,0 +1,5 @@
+C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\bin\Debug\PagingSorting.dll
+C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\bin\Debug\PagingSorting.pdb
+C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\obj\Debug\PagingSorting.dll
+C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\obj\Debug\PagingSorting.pdb
