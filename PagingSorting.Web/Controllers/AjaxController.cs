@@ -25,7 +25,7 @@ namespace PagingSorting.Web.Controllers
             var option = new PagingOption { Page = currentPageIndex, PageSize = PageSize, SortBy = SortBy, SortDescending = SortDescending };
             var items = PeopleList.ToPagedList(option);
 
-            System.Threading.Thread.Sleep(500);
+            System.Threading.Thread.Sleep(1000);
 
             return PartialView("PeopleGridPartial", items);
         }

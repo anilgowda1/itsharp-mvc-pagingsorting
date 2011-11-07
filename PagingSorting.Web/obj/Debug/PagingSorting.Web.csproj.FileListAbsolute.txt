@@ -7,3 +7,12 @@ C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting.Web\bin\EntityFramework
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting.Web\obj\Debug\PagingSorting.Web.dll
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting.Web\obj\Debug\PagingSorting.Web.pdb
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\PagingSorting.Web.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\PagingSorting.Web.pdb
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\EntityFramework.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\PagingSorting.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\PagingSorting.pdb
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\bin\EntityFramework.xml
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\obj\Debug\PagingSorting.Web.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting.Web\obj\Debug\PagingSorting.Web.pdb

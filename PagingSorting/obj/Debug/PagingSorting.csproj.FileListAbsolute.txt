@@ -3,3 +3,8 @@ C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\bin\Debug\PagingSorting
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\bin\Debug\PagingSorting.pdb
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\obj\Debug\PagingSorting.dll
 C:\WorkSpace\TestProject\PagingSortingDemo\PagingSorting\obj\Debug\PagingSorting.pdb
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting\bin\Debug\PagingSorting.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting\bin\Debug\PagingSorting.pdb
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting\obj\Debug\PagingSorting.dll
+C:\WorkSpace\TestProject\PagingSorting.ITSharp\PagingSorting\obj\Debug\PagingSorting.pdb
